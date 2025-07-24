@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+
+# Models
+*.h5
+*.pt
+*.pth
+model/
+
+# Output files
+*.log
+*.csv
