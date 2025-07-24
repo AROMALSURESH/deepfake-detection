@@ -19,7 +19,7 @@ The project uses two trained models, which are not included in this repository d
 🔗 **Download Models from Google Drive**:  
 [Click here to access the models](https://drive.google.com/drive/folders/1Q0ADd_oDo_pDy2RHX0tBv_8--irXJLvd?usp=sharing)
 
-After downloading, place the models inside the `models/` directory.
+After downloading, place the models inside the `model/` directory.
 
 ## 🚀 Getting Started
 
